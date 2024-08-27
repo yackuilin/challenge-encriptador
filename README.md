@@ -1,8 +1,7 @@
 
 
-<title> Descripción de su proyecto; </title>
-  <p>Conjunto a los cursos, mas tutoriales, pude intentar de craer un encriptador referente a lo pedido para este reto o challenge, 
-  que propuse mayormente lo que aprendi y por mi parte investigar nuevas funciones y herramientas</p>
+<h1> Descripción de su proyecto </h1>
+  
 <h2><funcionalidades;/h2>
   <p>
     Creacion de 3 archivos, uno de html, uno de css y el ultimo de js
